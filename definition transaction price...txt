@@ -1,0 +1,102 @@
+house prices of all regions given from Danish government:
+1) http://rkr.statbank.dk/statbank5a/default.asp?w=1920 
+2) except the following regions: Subregion Bornholm, Bornholm,Læsø, Ærø,
+   Fanø, Samsø due too much missing data.
+3) Data from 1992 to including 3rd quarter of 2018, quarterly. 
+4) Data for Frederiksberg 2007Q4 is missing and is chosen as the 
+   artihmetic mean between adjacent quarters 
+
+
+2. Transaction price realised	Detached/terraced house	Copenhagen
+3. Transaction price realised	Detached/terraced house	Frederiksberg
+4. Transaction price realised	Detached/terraced house	Dragør
+5. Transaction price realised	Detached/terraced house	Tårnby	
+7. Transaction price realised	Detached/terraced house	Albertslund
+8. Transaction price realised	Detached/terraced house	Ballerup
+9. Transaction price realised	Detached/terraced house	Brøndby	
+10. Transaction price realised	Detached/terraced house	Gentofte
+11. Transaction price realised	Detached/terraced house	Gladsaxe
+12. Transaction price realised	Detached/terraced house	Glostrup	
+13. Transaction price realised	Detached/terraced house	Herlev	
+14. Transaction price realised	Detached/terraced house	Hvidovre	
+15. Transaction price realised	Detached/terraced house Høje-Taastrup
+16. Transaction price realised	Detached/terraced house Ishøj
+17. Transaction price realised	Detached/terraced house Lyngby-Taarbæk	
+18. Transaction price realised	Detached/terraced house Rødovre
+19. Transaction price realised	Detached/terraced house Vallensbæk
+21. Transaction price realised	Detached/terraced house Allerød
+22. Transaction price realised	Detached/terraced house Egedal	
+23. Transaction price realised	Detached/terraced house	Fredensborg	
+24. Transaction price realised	Detached/terraced house	Frederikssund
+25. Transaction price realised	Detached/terraced house	Furesø
+26. Transaction price realised	Detached/terraced house	Gribskov
+27. Transaction price realised	Detached/terraced house	Halsnæs
+28. Transaction price realised	Detached/terraced house	Helsingør	
+29. Transaction price realised	Detached/terraced house	Hillerød
+30. Transaction price realised	Detached/terraced house	Hørsholm	
+31. Transaction price realised	Detached/terraced house	Rudersdal
+34. Transaction price realised	Detached/terraced house	Greve
+35. Transaction price realised	Detached/terraced house	Køge
+36. Transaction price realised	Detached/terraced house	Lejre
+37. Transaction price realised	Detached/terraced house	Roskilde
+38. Transaction price realised	Detached/terraced house	Solrød
+40. Transaction price realised	Detached/terraced house	Faxe
+41. Transaction price realised	Detached/terraced house	Guldborgsund
+42. Transaction price realised	Detached/terraced house	Holbæk
+43. Transaction price realised	Detached/terraced house	Kalundborg
+44. Transaction price realised	Detached/terraced house	Lolland	
+45. Transaction price realised	Detached/terraced house	Næstved	
+46. Transaction price realised	Detached/terraced house	Odsherred
+47. Transaction price realised	Detached/terraced house	Ringsted
+48. Transaction price realised	Detached/terraced house	Slagelse
+49. Transaction price realised	Detached/terraced house	Sorø	
+50. Transaction price realised	Detached/terraced house	Stevns	
+51. Transaction price realised	Detached/terraced house	Vordingborg	
+54. Transaction price realised	Detached/terraced house	Assens
+55. Transaction price realised	Detached/terraced house	Faaborg-Central Funen
+56. Transaction price realised	Detached/terraced house	Kerteminde
+57. Transaction price realised	Detached/terraced house	Langeland
+58. Transaction price realised	Detached/terraced house	Middelfart	
+59. Transaction price realised	Detached/terraced house	North Funen
+60. Transaction price realised	Detached/terraced house	Nyborg
+61. Transaction price realised	Detached/terraced house	Odense
+62. Transaction price realised	Detached/terraced house	Svendborg	
+64. Transaction price realised	Detached/terraced house	Billund	
+65. Transaction price realised	Detached/terraced house	Esbjerg
+67. Transaction price realised	Detached/terraced house	Fredericia	
+68. Transaction price realised	Detached/terraced house	Haderslev
+69. Transaction price realised	Detached/terraced house	Kolding	
+70. Transaction price realised	Detached/terraced house	Sønderborg
+71. Transaction price realised	Detached/terraced house	Tønder
+72. Transaction price realised	Detached/terraced house	Varde
+73. Transaction price realised	Detached/terraced house	Vejen
+74. Transaction price realised	Detached/terraced house	Vejle
+75. Transaction price realised	Detached/terraced house	Aabenraa
+78. Transaction price realised	Detached/terraced house	Favrskov
+79. Transaction price realised	Detached/terraced house	Hedensted
+80. Transaction price realised	Detached/terraced house	Horsens
+81. Transaction price realised	Detached/terraced house	Norddjurs
+82. Transaction price realised	Detached/terraced house	Odder
+83. Transaction price realised	Detached/terraced house	Randers
+85. Transaction price realised	Detached/terraced house	Silkeborg
+86. Transaction price realised	Detached/terraced house	Skanderborg
+87. Transaction price realised	Detached/terraced house	Syddjurs	
+88. Transaction price realised	Detached/terraced house	Århus
+90. Transaction price realised	Detached/terraced house	Herning	
+91. Transaction price realised	Detached/terraced house	Holstebro	
+92. Transaction price realised	Detached/terraced house	Ikast-Brande
+93. Transaction price realised	Detached/terraced house	Lemvig
+94. Transaction price realised	Detached/terraced house	Ringkøbing-Skjern
+95. Transaction price realised	Detached/terraced house	Skive	
+96. Transaction price realised	Detached/terraced house	Struer
+97. Transaction price realised	Detached/terraced house	Viborg
+100. Transaction price realised	Detached/terraced house	Brønderslev
+101. Transaction price realised	Detached/terraced house	Frederikshavn	
+102. Transaction price realised	Detached/terraced house	Hjørring
+103. Transaction price realised	Detached/terraced house	Jammerbugt
+104. Transaction price realised	Detached/terraced house	Mariagerfjord
+105. Transaction price realised	Detached/terraced house	Morsø
+106. Transaction price realised	Detached/terraced house	Rebild	
+107. Transaction price realised	Detached/terraced house	Thisted
+108. Transaction price realised	Detached/terraced house	Vesthimmerlands	
+109. Transaction price realised	Detached/terraced house	Aalborg	
